@@ -1,4 +1,19 @@
+# Hi 👋, I'm Sarthak Goel
 
+🎯 A passionate **Full Stack Developer** and **AI/ML enthusiast** from India  
+👨‍💻 GitHub: [sarthakgoel075](https://github.com/sarthakgoel075)
+
+---
+
+## 🚀 About Me
+
+- 🌱 I’m currently diving deep into **Artificial Intelligence and Machine Learning**  
+- 💻 I love building projects with **React**, **FastApi**, and **MongoDB**  
+- 🧠 Constantly practicing and improving my **Data Structures & Algorithms** skills  
+- 👯 I’m looking to collaborate on **AI/ML-based projects**  
+- 🤝 I’m open to help or pair-program on **DSA problems**  
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-goel-935326264) 
 
